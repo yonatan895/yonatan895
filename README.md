@@ -1,7 +1,3 @@
 - 👋 Hi, I’m @yonatan895
 - 👀 I’m interested in Rust, Kotlin and Cyber
-
-![](https://raw.githubusercontent.com/yonatan895/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/yonatan895/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/yonatan895/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/yonatan895/github-stats/master/generated/languages.svg#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
